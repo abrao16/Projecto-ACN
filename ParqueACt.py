@@ -188,7 +188,7 @@ def InserirVaga():
     user = input("Digite seu usuário: ")
     password = input("Digite sua senha: ")
     
-    if (user == "Dario" and password == "1234"):
+    if (user == "Cassoma" and password == "2025"):
         print("Login como administrador bem-sucedido.\n")
         while True:
             vaga = input("Insira o código da nova vaga: ")
